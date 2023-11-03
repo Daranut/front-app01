@@ -1,0 +1,7 @@
+.picture{
+  width: 300;
+  height: 200;
+  box-shadow: 4px 4px 4px;
+  border-radius: 10px;
+  margin: 5px;
+}

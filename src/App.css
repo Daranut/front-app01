@@ -1,0 +1,27 @@
+.text-purple{
+    color: blueviolet;
+    font-size: 150px;
+    text-shadow: 1px 2px 2px gainsboro;
+    transition: 0.3;
+
+}
+.text-purple:hover{
+    color: blue;
+    transition: scale(1.1);
+}
+
+.btn:hover{
+    color: aliceblue;
+    transform: scale(1.1);
+}
+.btn{
+    background-color: rgb(255, 127, 210);
+    font-size: 50px;
+    color: blackS;
+    border-radius: 3px;
+    padding: 5px;
+    border: none;
+    margin: 3px;
+    transition: 0.3;
+    
+}
